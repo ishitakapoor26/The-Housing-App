@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358313437157",
+    "project_id": "housingapp-69a0c",
+    "storage_bucket": "housingapp-69a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358313437157:android:f0a4c75ab9f04f5ce0f10c",
+        "android_client_info": {
+          "package_name": "toycell.com.housingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358313437157-848io7f2v21prp35avrpnc4d9si3806i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "toycell.com.housingapp",
+            "certificate_hash": "1fdac7bcaa16c6339ae0f648765f5e334568240c"
+          }
+        },
+        {
+          "client_id": "358313437157-893j7s3q3lvvtl22347lmvuh0ighn2nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvDwMA5QhYa4aXSfsa8aWYggbkgDChigI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358313437157-893j7s3q3lvvtl22347lmvuh0ighn2nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
